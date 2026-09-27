@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Aegis Health</string>
-    <string name="slogan">Qualcomm Offline-First Edge AI Health Guardian</string>
-    <style name="Theme.AegisHealth" parent="android:Theme.Material.NoActionBar">
-        <item name="android:statusBarColor">#0A0E17</item>
-        <item name="android:windowBackground">#0A0E17</item>
-    </style>
-</resources>

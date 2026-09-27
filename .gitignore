@@ -1,0 +1,75 @@
+# ===========================
+# Android / Gradle
+# ===========================
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/captures
+.externalNativeBuild/
+.cxx/
+*.ap_
+*.aab
+
+# Generated files
+bin/
+gen/
+out/
+release/
+
+# App build outputs
+app/build/
+app/release/
+
+# Keystore files (NEVER commit these!)
+*.jks
+*.keystore
+keystore.properties
+
+# ProGuard mapping files
+*.map
+
+# Crash / heap dumps
+*.hprof
+
+# ===========================
+# IntelliJ / Android Studio
+# ===========================
+.idea/
+*.iws
+*.iml
+out/
+# Uncomment to ignore the contents of .idea (optional, some teams prefer to commit it)
+# !.idea/vcs.xml
+
+# ===========================
+# Kotlin / KSP generated
+# ===========================
+.kotlin/
+ksp/
+
+# ===========================
+# Node / web_preview
+# ===========================
+web_preview/node_modules/
+web_preview/dist/
+web_preview/.vite/
+web_preview/.env
+web_preview/.env.local
+web_preview/.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ===========================
+# OS files
+# ===========================
+Thumbs.db
+Desktop.ini
+.DS_Store
