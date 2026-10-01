@@ -16,5 +16,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AegisHealth"
+rootProject.name = "Crysta"
 include(":app")

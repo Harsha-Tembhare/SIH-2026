@@ -1,4 +1,4 @@
-# 🛡️ Aegis Health — SIH 2026
+# 🔷 Crysta — SIH 2026
 
 > **Smart India Hackathon 2026** — Real-time AI-powered health monitoring for soldiers, disaster responders, and civilians in high-risk environments.
 
@@ -6,7 +6,7 @@
 
 ## 📱 About
 
-**Aegis Health** is an Android application that provides continuous, offline-capable physiological monitoring using BLE wearable sensors. It features on-device AI risk assessment, encrypted local storage, and an offline-first disaster mode — designed to operate in environments with no internet connectivity.
+**Crysta** is an Android application that provides continuous, offline-capable physiological monitoring using BLE wearable sensors. It features on-device AI risk assessment, encrypted local storage, and an offline-first disaster mode — designed to operate in environments with no internet connectivity.
 
 ---
 

@@ -330,7 +330,7 @@ export default function App() {
               </div>
             </div>
             <div>
-              <h1 className="font-bold text-lg leading-none tracking-tight text-white">AEGIS HEALTH</h1>
+              <h1 className="font-bold text-lg leading-none tracking-tight text-white">CRYSTA</h1>
               <p className="text-[10px] text-[#00F2FE] font-mono tracking-wider mt-1">SIH26181 QUALCOMM</p>
             </div>
           </div>

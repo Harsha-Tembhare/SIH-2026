@@ -20,7 +20,7 @@ private val DarkColorScheme = darkColorScheme(
 )
 
 @Composable
-fun AegisHealthTheme(
+fun CrystaTheme(
     darkTheme: Boolean = true,
     content: @Composable () -> Unit
 ) {

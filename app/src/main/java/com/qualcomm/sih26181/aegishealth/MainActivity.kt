@@ -28,7 +28,7 @@ import com.qualcomm.sih26181.aegishealth.domain.model.*
 import com.qualcomm.sih26181.aegishealth.domain.signal.SignalProcessor
 import com.qualcomm.sih26181.aegishealth.ui.navigation.AegisBottomNavigationBar
 import com.qualcomm.sih26181.aegishealth.ui.navigation.AegisNavigation
-import com.qualcomm.sih26181.aegishealth.ui.theme.AegisHealthTheme
+import com.qualcomm.sih26181.aegishealth.ui.theme.CrystaTheme
 import kotlinx.coroutines.flow.collectLatest
 import kotlinx.coroutines.launch
 
@@ -60,7 +60,7 @@ class MainActivity : ComponentActivity() {
         hardwareBleManager = HardwareBleManager(this)
 
         setContent {
-            AegisHealthTheme {
+            CrystaTheme {
                 val navController = rememberNavController()
 
                 var currentVitals by remember { mutableStateOf(VitalsData()) }
